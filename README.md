@@ -35,7 +35,7 @@ A beautiful and modern **Login + Dashboard UI**. Perfect to kickstart your next 
 ### ✨ Author
 
 Made by **Sanket Padhyal**  
-[@sanketpadhyal](https://github.com/sanketpadhyal) • aka **VORTEXBYTE** ⚡
+[@sanketpadhyal](https://github.com/sanketpadhyal)⚡
 
 ---
 
