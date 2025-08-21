@@ -1,42 +1,51 @@
 # 🔐 CuteCloud – Demo Login UI
 
-A beautiful and modern **Login + Dashboard UI**. Perfect to kickstart your next web project! Just connect your own backend 🔗
+**CuteCloud** is a beautiful and modern **Login + Dashboard UI**, perfect to kickstart your next web project! Fully frontend, just connect your own backend for authentication.  
+
+---
+
+![💻 Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=for-the-badge)  
+![🚀 Hosting](https://img.shields.io/badge/Hosting-Netlify-orange?style=for-the-badge)  
+![👨‍💻 Made By](https://img.shields.io/badge/Made%20By-Sanket%20Padhyal-red?style=for-the-badge)  
 
 ---
 
 ### 🧪 Demo Access
 
 ✅ Try it live:  
-🌐 [https://bespoke-lily-8ab0a5.netlify.app](https://bespoke-lily-8ab0a5.netlify.app)
+🌐 [CuteCloud Demo](https://https://logindashboarddemo.netlify.app)
 
-🆔 **Demo Login Credentials:**
-📧 Email: admin@vortexbyte
-🔑 Password: vortexbyte
+🆔 **Demo Login Credentials:**  
+📧 Email: admin@vortexbyte  
+🔑 Password: vortexbyte  
 
 ---
 
 ### 📦 Features
 
-- Sleek UI with Login, Register, Forgot Password, Dashboard
-- Clean HTML + CSS + JS (No frameworks)
-- Dark mode dashboard 🖤
-- Easy to integrate with Firebase, Supabase, or your own backend
+- Sleek UI with **Login, Register, Forgot Password, and Dashboard**  
+- Clean **HTML + CSS + JS** (no frameworks)  
+- **Dark mode dashboard** 🖤  
+- Easy to integrate with **Firebase, Supabase**, or your own backend  
 
 ---
 
 ### 🛠️ How to Use
 
-1. Clone the repo
-2. Replace dummy logic with your backend auth
-3. Deploy anywhere (Netlify, Vercel, Firebase hosting, etc.)
+1. Clone the repository  
+2. Replace dummy logic with your backend authentication  
+3. Deploy anywhere (**Netlify, Vercel, Firebase Hosting**, etc.)  
 
 ---
 
 ### ✨ Author
 
-Made by **Sanket Padhyal**  
-[@sanketpadhyal](https://github.com/sanketpadhyal)⚡
+**Sanket Padhyal** 💻✨  
+> 🔗 GitHub: [@sanketpadhyal](https://github.com/sanketpadhyal)  
 
 ---
 
-© 2025 – Free to use, customize, and build upon. Leave a ⭐ if you like it!
+## 📜 License
+
+© 2025 CuteCloud. All rights reserved.  
+This project is for **learning & showcase purposes** only (frontend-based, no backend).  
