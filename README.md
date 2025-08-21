@@ -13,7 +13,7 @@
 ### 🧪 Demo Access
 
 ✅ Try it live:  
-🌐 [CuteCloud Demo](https://https://logindashboarddemo.netlify.app)
+🌐 [CuteCloud Demo](https://logindashboarddemo.netlify.app/)
 
 🆔 **Demo Login Credentials:**  
 📧 Email: admin@vortexbyte  
